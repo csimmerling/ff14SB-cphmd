@@ -1,0 +1,1 @@
+Supplementary files for the manuscript 'Assessing pH-Dependent Conformational Changes in the Fusion Peptide Proximal Region of the SARS-CoV-2 Spike Glycoprotein' include frcmod.constph.ff14SB, AS4.ff14SB.off, and GL4.ff14SB.off. In these files, the atom type of the Cβ atom was changed from CT to 2C, to match the change from ff99SB to ff14SB.
